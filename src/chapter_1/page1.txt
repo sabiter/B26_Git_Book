@@ -2,10 +2,10 @@ How am I supposed to understand this book .
 It's crazy the level of language that's being used here.
 I don't want to read this book.
 
-This is a new topic we're learning.
+This is a new topic we're learning.!!!
 
 
-I hope I understand what we're learning.
+I hope I understand what we're learning.!!!!
 
 
-This is a text file.
+This is a text file.!!!
